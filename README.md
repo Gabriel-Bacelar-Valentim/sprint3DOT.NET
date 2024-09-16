@@ -34,14 +34,14 @@ Nós utilizamos Singleton e Facade em nosso projeto.
 
 intruções para rodar o projeto:
 
-1- Aperte no botão verde "Code" e abaixo copie a url do repositorio git
-2- Abra o Visual Studio 2022 e selecione a opcao clonar repositório
-3- Cole o link do github no espaço vazio e aperte em clonar no canto inferior direito da página
-4- De Double Click no arquivo sprint3.NET.sln
-5- Agora nas abas acima selecione "Compilação" e depois "Recompilar Solução"
-6- Após a recompilação certifique-se de ver se ao lado do botão play está escrito https, senao aperte na seta pra baixo ao lado e selecione
-7- Aperte no botão play e em alguns segundos o swagger irá abrir pra você com os EndPoints
-Agora é so testar
+1- Aperte no botão verde "Code" e abaixo copie a url do repositorio git.
+2- Abra o Visual Studio 2022 e selecione a opcao clonar repositório.
+3- Cole o link do github no espaço vazio e aperte em clonar no canto inferior direito da página.
+4- De Double Click no arquivo sprint3.NET.sln.
+5- Agora nas abas acima selecione "Compilação" e depois "Recompilar Solução".
+6- Após a recompilação certifique-se de ver se ao lado do botão play está escrito https, senao aperte na seta pra baixo ao lado e selecione.
+7- Aperte no botão play e em alguns segundos o swagger irá abrir pra você com os EndPoints.
+Agora é so testar.
 
 
 
