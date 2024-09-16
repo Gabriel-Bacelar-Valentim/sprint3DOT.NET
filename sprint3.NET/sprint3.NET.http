@@ -1,0 +1,6 @@
+@sprint3.NET_HostAddress = http://localhost:5156
+
+GET {{sprint3.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
